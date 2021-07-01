@@ -15,7 +15,7 @@ hide all.
 
 ## TEST ACCOUNT
 - email: testuser@example.com
-- password testuser
+- password: testuser
 
 ## URL
 ```
